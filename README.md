@@ -2,7 +2,7 @@
 
 ✔️FINALIZADO✔️
 
-Este proyecto se encuentra finalizado, fue realizado como proyecto final para el curso "SQL" de CoderHouse. El obtuve una nota de 10.
+Este proyecto se encuentra finalizado, fue realizado como proyecto final para el curso "SQL" de CoderHouse. **El obtuve una nota de 10.**
 
 📝  Descripcion📝
 
